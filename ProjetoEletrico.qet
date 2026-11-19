@@ -1,0 +1,52 @@
+<project title="ProjetoEletrico" version="0.90">
+    <properties>
+        <property show="1" name="savedfilepath">/home/guilherme/projeto/Projeto-Eletrico/ProjetoEletrico.qet</property>
+        <property show="1" name="savedtime">14:11</property>
+        <property show="1" name="saveddate-eu">19-11-2026</property>
+        <property show="1" name="saveddate">19/11/2026</property>
+        <property show="1" name="saveddate-us">2026-11-19</property>
+        <property show="1" name="savedfilename">ProjetoEletrico</property>
+    </properties>
+    <newdiagrams>
+        <border rows="8" displayrows="true" displaycols="true" cols="17" rowsize="80" colsize="60"/>
+        <inset plant="" auto_page_num="" folio="%id/%total" filename="" indexrev="" date="now" title="" author="Guilherme Pontes" version="" locmach="" displayAt="bottom"/>
+        <conductors numsize="7" vertirotatetext="270" horizontal-alignment="AlignBottom" dash-size="2" horizrotatetext="0" color2="#000000" onetextperfolio="0" type="multi" formula="" function="" conductor_color="" text_color="#000000" tension_protocol="" bicolor="false" vertical-alignment="AlignRight" cable="" bus="" num="_" condsize="1" conductor_section="" displaytext="1"/>
+        <report label="%f-%l%c"/>
+        <xrefs>
+            <xref delayprefix="" offset="40" switchprefix="" xrefpos="AlignTop" master_label="%f-%l%c" displayhas="cross" type="coil" showpowerctc="true" snapto="label" slave_label="(%f-%l%c)" powerprefix=""/>
+            <xref delayprefix="" offset="0" switchprefix="" xrefpos="" master_label="%f-%l%c" displayhas="cross" type="protection" showpowerctc="true" snapto="label" slave_label="(%f-%l%c)" powerprefix=""/>
+            <xref delayprefix="" offset="0" switchprefix="" xrefpos="" master_label="%f-%l%c" displayhas="cross" type="commutator" showpowerctc="true" snapto="label" slave_label="(%f-%l%c)" powerprefix=""/>
+        </xrefs>
+        <conductors_autonums freeze_new_conductors="false" current_autonum=""/>
+        <folio_autonums/>
+        <element_autonums freeze_new_elements="false" current_autonum=""/>
+    </newdiagrams>
+    <diagram filename="" cols="17" freezeNewConductor="false" folio="%id/%total" freezeNewElement="false" displayAt="bottom" date="20261119" plant="" order="1" title="" auto_page_num="" author="Guilherme Pontes" version="0.90+e3afc562b" colsize="60" indexrev="" height="660" rowsize="80" displaycols="true" rows="8" displayrows="true" locmach="">
+        <defaultconductor numsize="7" vertirotatetext="270" horizontal-alignment="AlignBottom" dash-size="2" horizrotatetext="0" color2="#000000" onetextperfolio="0" type="multi" formula="" function="" conductor_color="" text_color="#000000" tension_protocol="" vertical-alignment="AlignRight" bicolor="false" cable="" bus="" num="_" condsize="1" conductor_section="" displaytext="1"/>
+    </diagram>
+    <collection>
+        <category name="import">
+            <names>
+                <name lang="de">Importierte elemente</name>
+                <name lang="ru">Импортированные элементы</name>
+                <name lang="nl">Elementen geïmporteerd</name>
+                <name lang="pl">Elementy importowane</name>
+                <name lang="es">Elementos importados</name>
+                <name lang="ro">Elemente importate</name>
+                <name lang="tr">İthal öğeler</name>
+                <name lang="uk">Імпортовані елементи</name>
+                <name lang="fr">Éléments importés</name>
+                <name lang="sl">Uvoženi elementi</name>
+                <name lang="hr">Uvezeni elementi</name>
+                <name lang="ja">インバートされた要素</name>
+                <name lang="it">Elementi importati</name>
+                <name lang="pt">elementos importados</name>
+                <name lang="en">Imported elements</name>
+                <name lang="ca">Elements importats</name>
+                <name lang="da">Importerede elementer</name>
+                <name lang="el">Εισηγμένα στοιχεία</name>
+                <name lang="cs">Zavedené prvky</name>
+            </names>
+        </category>
+    </collection>
+</project>
